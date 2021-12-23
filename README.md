@@ -20,6 +20,5 @@ Stands for list:
 ## Permission denied error? (Mac / Linux)
 #### If you get a permissions error somewhere along the line, you might be able to use "sudo", which is your super user account (aka. it's like the admin of your computer that has all the privileges.) Be careful not to overuse this command.
 ```
-On Window type: 
 $ sudo pwd
 ```
