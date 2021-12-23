@@ -15,10 +15,14 @@ On Window type:
 Stands for list:
 "ls"  ->  Mac
 "dir" ->  Windows
+
+Change Directory [Same in all platforms]:
+"cd/"  ->  Going inside of directory of Inside 
+"cd .." ->  Going backward of directory 
 ```
 
 ## Permission denied error? (Mac / Linux)
-#### If you get a permissions error somewhere along the line, you might be able to use "sudo", which is your super user account (aka. it's like the admin of your computer that has all the privileges.) Be careful not to overuse this command.
+###### If you get a permissions error somewhere along the line, you might be able to use "sudo", which is your super user account (aka. it's like the admin of your computer that has all the privileges.) Be careful not to overuse this command.
 ```
 $ sudo pwd
 ```
