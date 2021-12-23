@@ -9,11 +9,11 @@
 ## Learn these basic commands:
 ```
 On Window type: 
-"open ."   ->  Mac 
+"$ open ."   ->  Mac 
 "start ."  ->  Windows
 
 Stands for list:
-"ls"  ->  Mac
+"& ls"  ->  Mac
 "dir" ->  Windows
 
 Change Directory [Same in all platforms]:
