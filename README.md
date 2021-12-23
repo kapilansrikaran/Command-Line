@@ -8,7 +8,7 @@
 
 ## Learn these basic commands:
 ```
-On Window type: 
+Open Window: 
 $ open .   ->  Mac 
 > start .  ->  Windows
 
@@ -19,8 +19,21 @@ Stands for list:
 Change Directory [Same in all platforms]:
 $ cd/    ->  Going inside of directory of Inside 
 $ cd ..  ->  Going backward of directory 
+$ cd     ->  Going root 
 
+Creates a new file:
+$ touch index.html   -> Mac/Linux
+> echo > demo.txt    -> Windows
 
+Makes a new directory/folder [Same in all platforms]:
+$ mkdir project_1
+
+Clearing Command Line:
+$ clear   -> Mac/Linux
+> cls     -> Windows
+
+Hidden Files:
+$ ls -a [-a means all]
 
 ```
 
