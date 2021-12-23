@@ -9,16 +9,19 @@
 ## Learn these basic commands:
 ```
 On Window type: 
-"$ open ."   ->  Mac 
-"start ."  ->  Windows
+$ open .   ->  Mac 
+> start .  ->  Windows
 
 Stands for list:
-"& ls"  ->  Mac
-"dir" ->  Windows
+& ls   ->  Mac
+> dir  ->  Windows
 
 Change Directory [Same in all platforms]:
-"cd/"  ->  Going inside of directory of Inside 
-"cd .." ->  Going backward of directory 
+$ cd/    ->  Going inside of directory of Inside 
+$ cd ..  ->  Going backward of directory 
+
+
+
 ```
 
 ## Permission denied error? (Mac / Linux)
