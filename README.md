@@ -42,3 +42,19 @@ $ ls -a [-a means all]
 ```
 $ sudo pwd
 ```
+
+
+
+ls - List file and Directories
+ls -a : List all file and directories ls -l lists file in "long format"
+ls -s : size of the file or directory
+mkdir : Make a directory
+cd directory : change to named directory
+cd : change to home directory
+cd ~ : change to home directory
+cd .. : change to parent directory
+pwd : display current dir path
+useradd : add new user in the system 
+usermod : modify user
+userdel : delete user
+groupadd : add new group in the system
