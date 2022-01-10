@@ -52,9 +52,22 @@ $ sudo pwd
 | cd directory | change to named directory |
 | cd | change to home directory |
 | cd ~ | change to home directory |
-| cd .. | change to parent directory |
+| cd .. | change to previous directory |
 | pwd | display current dir path |
-| cp | copying files and directories to another location
+| cp | copying files and directories to another location |
+| cp file1 file2 | copy file1 and call it file2 |
+| mv file1 file2 | move or rename file1 to file2 |
+| rm file | remove a file |
+| rmdir directory | remove directory |
+| rm -r directory | remove directory which contain have a file or/ Non empty directory|
+| touch | create a new file |
+| cat file | display a content of the file |
+| cat > file | remove the privious data and entering new data |
+| cat >> file | with out deleted previoud data and add datas it's call append | 
+| cat < file | input |
+| more file | display a file a page at a time |
+| who | list user currencly logged in |
+| whoami | ony list the user name |
 | useradd | add new user in the system | 
 | usermod | modify user |
 | userdel | delete user |
