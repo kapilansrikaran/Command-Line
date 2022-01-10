@@ -72,3 +72,4 @@ $ sudo pwd
 | usermod | modify user |
 | userdel | delete user |
 | groupadd | add new group in the system |
+
