@@ -45,8 +45,8 @@ $ sudo pwd
 
 | Command | Description |
 | --- | --- |
-| ls | List file and Directories |
-| ls -a | List all file and directories ls -l lists file in "long format" |
+| ls | List file and directories |
+| ls -a | List all file and directories "ls -l" lists file in "long format" or "Tabular Format" |
 | ls -s | size of the file or directory |
 | mkdir | Make a directory |
 | cd directory | change to named directory |
@@ -54,6 +54,7 @@ $ sudo pwd
 | cd ~ | change to home directory |
 | cd .. | change to parent directory |
 | pwd | display current dir path |
+| cp | copying files and directories to another location
 | useradd | add new user in the system | 
 | usermod | modify user |
 | userdel | delete user |
