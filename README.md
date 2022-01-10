@@ -6,6 +6,10 @@
 > Shell\
 > "These terms are not "100%" the same", but because we're just getting started - If you hear these words just know that they are referring to more or less the same thing.
 
+## Online environment to run unix commands
+https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
+
+
 ## Learn these basic commands:
 ```
 Open Window: 
@@ -98,7 +102,7 @@ What is Kurnal
 
 ```
 - file
-d directory,                                            * executable
+d directory,                                                * executable
     ^   symbolic links (?)  file size (bytes)   file name   / directory
     ^           ^               ^                  ^        ^
     drwxr-xr-x 11 valerie    16296  Mar  7 23:25 public_html/
